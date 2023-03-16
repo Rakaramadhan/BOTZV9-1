@@ -1,10 +1,10 @@
 const help = (prefix) => {
 	return` Hai👋 Im ${botname}:)
 ┌─❑「 INFO DEVELOPER 」
-│👤 Nama : Haris
-│📃 Github : HARISGANZ
+│👤 Nama : ItsMeRaka
+│📃 Github : KhaaTheInvisble
 │▶ Yutub : HANZ々OFC彡
-│💮 Ig : @wong_koclok 
+│💮 Ig : @khathehard 
 └─❑
 
 ┌─❑
